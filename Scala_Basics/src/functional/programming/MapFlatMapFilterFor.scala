@@ -55,6 +55,6 @@ object MapFlatMapFilterFor extends App {
   list.map{
     x => x*2
   }
-  
+
 
 }
